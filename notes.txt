@@ -1,4 +1,11 @@
+This server is created by using node.js
+
 resources I used to make the server
+
 https://www.linkedin.com/learning/node-js-essential-training-web-servers-tests-and-deployment-18647002/going-beyond-the-basics-in-node?resume=false&u=57119945
 https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?resume=false&u=57119945
 https://blog.logrocket.com/understanding-api-key-authentication-node-js/
+
+This repository does not include
+the node modules used to run the server
+
